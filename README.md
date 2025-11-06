@@ -7,10 +7,11 @@
 
 <br>
 
-📍 **Destaques do Projeto**
+### 📍 **Destaques do Projeto**
 - CRUD completo de veículos
 - Autenticação via JWT
 - Documentação com Swagger
+- Página inicial personalizada
 - Testes automatizados
 - Banco MySQL com Entity Framework Core
 
@@ -110,6 +111,17 @@ dotnet test
 
 <br>
 
+## 🧩 Implementações Extras
+
+Além do conteúdo abordado no projeto original, foram desenvolvidos os seguintes recursos adicionais:
+
+- Criação dos testes de unidade para o modelo de Veículo.
+
+- Desenvolvimento da página inicial personalizada para facilitar o acesso à documentação da API.
+
+- Estruturação completa do arquivo README.md com informações do projeto, uso, tecnologias, screenshots e orientações de configuração.
+
+<br>
 
 ## 💡 Projeto Original
 
